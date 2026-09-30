@@ -16,3 +16,6 @@ En los escenarios en los que el tirante es desconocido, su cálculo puede requer
 2. Selecciona la geometría del canal.
 3. Introduce los datos solicitados en las celdas sin sombrear.
 4. Pulsa el botón **Calcular** para obtener los resultados y visualizar la sección.
+
+## Versión
+v1.0.0 — primera versión pública.
